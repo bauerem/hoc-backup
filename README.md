@@ -7,7 +7,7 @@ A set of scripts for backing up MongoDB collections, sanitizing old data, and tr
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/hoc-backup.git
+   git clone https://github.com/bauerem/hoc-backup.git
    cd hoc-backup
    ```
 
